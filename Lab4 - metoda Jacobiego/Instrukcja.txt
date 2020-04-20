@@ -1,0 +1,3 @@
+Program czyta plik formatZadania.csv
+Plik .html - sprawozdanie typu jupyter.
+Plik .py - kod.
